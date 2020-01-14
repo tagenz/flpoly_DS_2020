@@ -1,23 +1,24 @@
-## First Name Last Name
+## Calvin Genzlinger
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Applications for Business
 
-- Course 2
+- Introduction to Data Science
 
-- Course 3
+- Introduction to Business Finance
 
-- Course 4
+- Strategic Management
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Music
 
-- Thing 2
+- Videogames
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
+<https://www.youtube.com/watch?v=AHzw4QvE2Do> 
